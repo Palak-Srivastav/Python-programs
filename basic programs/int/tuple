@@ -1,0 +1,7 @@
+marks = (80, 70, 60, 90)
+
+count = 0
+for m in marks:
+    count += 1
+
+print("Total elements:", count)
