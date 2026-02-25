@@ -1,1 +1,6 @@
 
+num = int(input("Enter number: "))
+
+is_even = (num % 2 == 0)
+
+print("Is even:", is_even)
